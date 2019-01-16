@@ -152,7 +152,7 @@
                         <ul class="dropdown-menu" role="menu">
                         </ul>
                     </li>
-                    <li class="dropdown active">
+                    <li class="dropdown">
                         <a href="preinscripcion.html">Preinscripción</a>
                         <ul class="dropdown-menu" role="menu">
                         </ul>
@@ -167,7 +167,7 @@
                         <ul class="dropdown-menu" role="menu">
                         </ul>
                     </li>
-                    <li class="dropdown">
+                    <li class="dropdown active">
                         <a href="tfm.html">Ofertas TFM</a>
                         <ul class="dropdown-menu" role="menu">
                     </ul>
@@ -199,8 +199,8 @@
 
 <div class="page_title2">
 <div class="container">
-    <div class="title"><h1>Registration to the Master in Data Science</h1></div>
-    <div class="pagenation">&nbsp;<a href="index.html">Start</a> <i>/</i> <a href="#">Pages</a> <i>/</i> Registration</div>
+    <div class="title"><h1>Ofertas TFM</h1></div>
+    <div class="pagenation">&nbsp;<a href="index.html">Inicio</a> <i>/</i> <a href="#">Páginas</a> <i>/</i> Ofertas TFM</div>
 </div>
 </div>
 
@@ -208,73 +208,134 @@
 
 <div class="clearfix"></div>
 
-
-
 <div class="container">
-
-<br> <br>    
-
-            <center><b>Since it is a master program organised by two universities, it is possible to register in any of them.
-.</b></center> <br> <br>
-    <p><center>If you wish to pre-register <a href="preinscripcion.html">click here</a></center></p>
-
-
-    <!--<p><h2><center><font color="red">       El plazo de preinscripci&oacute;n 2018/2019 finaliz&oacute;</font></center></h2></p>-->
-
-
-                    
-    <div class="one_half">
-    	<ul class="fullimage_box2">
-        	<li>
-                <a href="https://wapps001.uimp.es/preins/index.php" target="blank"><img src="images/uimp.jpg" /></a>
-            </li>
-            <br/>
-            <li>
-                <a href="https://wapps001.uimp.es/preins/index.php" target="blank"><b>Register through the UIMP</b></a>
-                 <center> Information about the registration periods  <a href="http://www.uimp.es/actividades-academicas/postgrado-e-investigacion/estudios/masteres-universitarios/calendario-academico.html" target="blank"> here. </a></center>
-            </li>
-            
-            <br/>
-        </ul>
+    <div class="content_fullwidth">
+        <p><h2><center>Ofertas TFM</center></h2></p>
+        <p align="center">En este apartado podr&aacute; encontrar los posibles Trabajos Fin de Master que se ofertan.<br/><br/>
+        Si desea alg&uacute;n TFM para este curso puede enviarnos un mail a: 
+        <a href="mailto:info-masterdatascience@listas.csic.es" target="blank"><i class="fa fa-envelope"></i> info-masterdatascience (at) listas.csic.es </a>
+        <br/><br/>
+        Si desea ofertar un nuevo TFM (empresa o profesor) puede rellenar el siguiente documento: 
+        <a href="Propuesta_Trabajos_Fin_de_Master-Interuniversitario.odt">(odt)</a> <a href="Propuesta_Trabajos_Fin_de_Master-Interuniversitario.docx">(docx)</a> 
+        <br/><br/>
     </div>
 
+	<div class="content_fullwidth">
+    <div class="accrodation">
+         <p><b>Ofertas TFM 2018-2019</b></p>
+         <br/>
+    	<!-- section 1 -->
+        <span class="acc-trigger active"><a href="#">1.- Análisis de datos del microbioma gastrointestinal</a></span>
+        <div class="acc-container">
+        <div class="content">
+En este proyecto se propone aplicar técnicas de aprendizaje automático y minería de datos para identificar posibles asociaciones entre las especies presentes en la flora intestinal y su cantidad relativa respecto a los principales factores fisiológicos, bioquímicos, metabólicos, nutricionales y deportivos relacionados con los cambios en la composición corporal. El objetivo es encontrar y definir biomarcadores que permitan distinguir entre los variados microbiomas y asociarlos a patologías o estados de salud. La gran diversidad interpersonal de la flora intestinal lo convierte en una tarea complicada para el ser humano, pero potencialmente adecuada para las técnicas de aprendizaje automático. Se usará una batería de análisis genéticos del microbioma intestinal específicamente dirigidos al ámbito del fitness profesional amateur que contiene unos 650000 marcadores y datos asociados (entrenamientos, lesiones, etcétera)
+        </div>
+        </div>
+    	<!-- section 2 -->
+        <span class="acc-trigger active"><a href="#">2.- Automatic Data Curation tool</a></span>
+        <div class="acc-container">
+        <div class="content">
+Asegurar no sólo la accesibilidad de los datos, sino también su calidad para que puedan ser reutilizados para obtener información, es un reto al que se enfrentan tanto empresas como disciplinas científicas. Este trabajo desarrollará una herramienta para automatizar procesos para mejorar la calidad de los datos procedentes de fuentes en abierto, aplicando métodos de curación a diferentes conjuntos de datos.
+        </div>
+        </div>
+    	<!-- section 3 -->
+        <span class="acc-trigger active"><a href="#">3. - 5 Estrellas para repositorios de datos en abierto </a></span>
+        <div class="acc-container">
+        <div class="content">
+Tim Berners-Lee, el inventor de la Web e iniciador de los Datos Enlazados (Linked Data), sugirió un esquema de desarrollo de 5 estrellas para Datos Abiertos. Dentro de los distintos tipos de repositorios de datos en abierto disponibles (gubernamentales, científicos, sociales) el nivel de adopción de este esquema es bastante desigual. El trabajo a desarrollar analizará varios repositorios con el fin de ver qué medidas se podrían tomar para conseguir que los datos publicados puedan ser fácilmente reutilizables.
+        </div>
+        </div>
+    	<!-- section 4 -->
+        <span class="acc-trigger active"><a href="#">4.- Identificación de las variables relevantes en la identificación de mutaciones somáticas en datos de secuenciación masiva de tumores. </a></span>
+        <div class="acc-container">
+        <div class="content">
+Las nuevas técnicas de secuenciación masiva han aumentado muy significativamente la cantidad de secuencia que se puede generar de las muestras tumorales humanas mejorando la identificación de mutaciones responsables de la patología. Sin embargo las características intrínsecas de los datos generados por estas tecnologías (alta redundancia, secuencias cortas, errores en la lectura, etc.) provocan que la identificación de mutaciones sea complicada. No existe todavía un estudio sobre el peso que tiene cada una de las variables presentes en los datos (calidad de secuencia o de alineamiento, diferencias muestra tumor-normal, cobertura, contexto de secuencia, etc. ) en la discriminación de mutaciones reales y falsos positivos. En el presente trabajo se propone recolectar un gran número de variables de una colección de mutaciones validadas y realizar estudios, por ejemplo mediante análisis de componentes principales, que variable o combinación de variables es más eficaz en la identificación de las mutaciones reales.        </div>
+        </div>
+    	<!-- section 1 -->
+        <span class="acc-trigger active"><a href="#">1.- Análisis de datos del microbioma gastrointestinal</a></span>
+        <div class="acc-container">
+        <div class="content">
+En este proyecto se propone aplicar técnicas de aprendizaje automático y minería de datos para identificar posibles asociaciones entre las especies presentes en la flora intestinal y su cantidad relativa respecto a los principales factores fisiológicos, bioquímicos, metabólicos, nutricionales y deportivos relacionados con los cambios en la composición corporal. El objetivo es encontrar y definir biomarcadores que permitan distinguir entre los variados microbiomas y asociarlos a patologías o estados de salud. La gran diversidad interpersonal de la flora intestinal lo convierte en una tarea complicada para el ser humano, pero potencialmente adecuada para las técnicas de aprendizaje automático. Se usará una batería de análisis genéticos del microbioma intestinal específicamente dirigidos al ámbito del fitness profesional amateur que contiene unos 650000 marcadores y datos asociados (entrenamientos, lesiones, etcétera)
+        </div>
+        </div>
+    	<!-- section 1 -->
+        <span class="acc-trigger active"><a href="#">1.- Análisis de datos del microbioma gastrointestinal</a></span>
+        <div class="acc-container">
+        <div class="content">
+En este proyecto se propone aplicar técnicas de aprendizaje automático y minería de datos para identificar posibles asociaciones entre las especies presentes en la flora intestinal y su cantidad relativa respecto a los principales factores fisiológicos, bioquímicos, metabólicos, nutricionales y deportivos relacionados con los cambios en la composición corporal. El objetivo es encontrar y definir biomarcadores que permitan distinguir entre los variados microbiomas y asociarlos a patologías o estados de salud. La gran diversidad interpersonal de la flora intestinal lo convierte en una tarea complicada para el ser humano, pero potencialmente adecuada para las técnicas de aprendizaje automático. Se usará una batería de análisis genéticos del microbioma intestinal específicamente dirigidos al ámbito del fitness profesional amateur que contiene unos 650000 marcadores y datos asociados (entrenamientos, lesiones, etcétera)
+        </div>
+        </div>
 
-
-
-
-    <div class="one_half last">
-    	<ul class="fullimage_box2">
-            <li>
-                <a href="https://web.unican.es/admision/Paginas/Matricula-de-Estudios-de-Master-Oficial.aspx" target="blank"><img src="images/uc.jpg" /></a>
-            </li>
-            <br/>
-            <li>
-                <a href="https://web.unican.es/admision/Paginas/Preinscripcion-por-internet.aspx" target="blank"><b>Register through the UC</b></a>
-
-                 <center> Information about the registration periods  <a href="https://web.unican.es/admision/acceso-a-estudios-de-master-oficial/matricula" target="blank"> here. </a></center>
-
- <br>
-            </li>
-        </ul>
+         <p>- - -</p>
     </div>
 
+    <br/>
 
-
+    <div class="accrodation">
+        <p><b>Ofertas TFM 2017-2018</b></p>
+        <br/>
+    	<!-- section 1 -->
+        <span class="acc-trigger active"><a href="#">1.- Evaluación y despliegue de tecnologías BigData mediante una arquitectura lambda sobre un IDS (ASIGNADO)</a></span>
+        <div class="acc-container">
+        <div class="content">
+El objetivo de este Trabajo de Fin de Máster consiste en evaluar distintas tecnologías de BigData enfocadas a streaming y procesado de datos para, posteriormente, desplegar las soluciones elegidas sobre el IDS (Intrusion Detection System) del IFCA (Instituto de Física de Cantabria).
+<br/><br/>
+En líneas generales, se analizarán y evaluarán las posibles tecnologías existentes de streaming de datos (Apache Kafka) y de procesado, tanto por lotes (Apache Spark), como mediante streaming (Apache Flink). Las soluciones elegidas se desplegarán mediante una arquitectura lambda con el actual IDS desplegado en el IFCA, Snort.
+<br/><br/>
+Este trabajo implica conocer distintas tecnologías de streaming, procesado y transmisión de datos de BigData, así como la arquitectura de detección de intrusos instalada en el IFCA.
+        </div>
+        </div>
+      
+        <!-- section 2 -->
+        <span class="acc-trigger"><a href="#">2.- Clasificacion de imagenes de especies de plancton utilizando Deep Learning (ASIGNADO)</a></span>
+        <div class="acc-container">
+        <div class="content">
+Proyecto cuyo objetivo se centra en la clasificacion de imagenes de distintas especies de plancton. Para su realizacion se utilizaran algoritmos de aprendizaje atomatico y mas concretamente tecnicas avanzadas de Deep Learning. Tambien se hara uso de tecnologia relacionada con bases de datos no relacionales, como es MongoDB
+        </div>
+        </div>
+               
+        <!-- section 3 -->
+        <span class="acc-trigger"><a href="#">3.- Análisis de perturbaciones en Fibra Óptica con técnicas de Machine Learning (ASIGNADO)</a></span>
+        <div class="acc-container">
+        <div class="content">
+Se estudia la aplicación de técnicas de machine learning con el objeto de analizar e identificar perturbaciones que afecten a la transmisión de luz en fibra óptica. Para el estudio se usan datos recogidos de fibras ópticas con diferentes características y/o perturbaciones reales, proporcionados por el Grupo de Ingeniería Fotónica (GIF)
+        </div>
+        </div>
+        
+        <!-- section 4 -->
+        <span class="acc-trigger"><a href="#">4.- Log clustering tool (ASIGNADO)</a></span>
+        <div class="acc-container">
+        <div class="content">
+En la actualidad, la cantidad de información generada por los sitemas IT y de comunicaciones sigue en clara expansión, haciendo aún más difícil, si cabe, su gestión y monitorización. Existen en el mercado diversas herramientas para la correlación de alertas, que facilitan y ayudan a los operadores a supervisar los sistemas; no obstante, el problema de resumir y sintetizar la actividad de los sistemas, mediante la extracción de patrones, no ha sido tan ampliamente implementado a nuestro entender. 
+<br/><br/>
+Es por ello que este proyecto investigará diversos algoritmos, que permitan mediante su combinación, obtener un extracto fiable de la actividad diaria de un sistema IT (CPD). Los resultados deberán ser explotados mediante una interfact gráfica de usuario.
+        </div>
+        </div>
+        
     </div>
     </div>
 
-<br>
-<br>
-    <p align="center"><a href="index.html" class="readmore_but13"><i class="fa fa-arrow-circle-left"> GO BACK TO MAIN PAGE</i></a></p>
+    <div class="content_fullwidth">
+        <p align="center">Si desea alg&uacute;n TFM de la lista para este curso puede enviarnos un mail a: 
+        <a href="mailto:info-masterdatascience@listas.csic.es" target="blank"><i class="fa fa-envelope"></i> info-masterdatascience (at) listas.csic.es </a>
+        </p>
+        <br/><br/>
+    </div>
+
+<!--     <div class="content_fullwidth"> -->
+<!--         <p><h2><center>DE ACUERDO, ¿COMO ME MATRICULO?</center></h2></p> -->
+<!--         <p>&nbsp;Al ser un máster muy especializado sólo hay un máximo de 25 plazas. Hay que hacer una preinscripción, que puedes realizar tanto en la Secretaria de la Facultad de Ciencias de la Universidad de Cantabria, rellenando un formulario impreso, como on-line a través de la plataforma de la UIMP:</p> -->
+<!--         <br/> -->
+<!--         <p align="center"><b><font color="red">El plazo de preinscripción está abierto hasta el 18 de Septiembre, pero no lo dejes para el último día!</font></b></p> -->
+<!--         <br/><br/> -->
+<!--         <p align="center"><a href="preinscripcion.html" class="readmore_but13"> Preinscribase desde aqui <i class="fa fa-arrow-circle-right"></i></a></p> -->
+<!--     </div> -->
+
 
 </div>
 
-</div>
 
-
-
-<div class="clearfix margin_top7"></div>
-
+<div class="clearfix margin_top4"></div>
 
 
 <div class="footer1">
@@ -389,7 +450,7 @@
 
 <!-- cubeportfolio -->
 <script type="text/javascript" src="js/cubeportfolio/jquery.cubeportfolio.min.js"></script>
-<script type="text/javascript" src="js/cubeportfolio/main3.js"></script>
+<script type="text/javascript" src="js/cubeportfolio/main4.js"></script>
 
 <!-- carousel -->
 <script defer src="js/carousel/jquery.flexslider.js"></script>
